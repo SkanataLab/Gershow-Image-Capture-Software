@@ -1,4 +1,4 @@
 [submodule "Image-Stack-Compressor"]
 	path = Image-Stack-Compressor
 	url = git@github.com:SkanataLab/MMF-StaticBackgroundCompressor.git
-	branch = master
+	update = merge
